@@ -1,6 +1,8 @@
 # couplePhotoStudio_project
 원주 부부 사진관 프로젝트
  
+ ***Today is Monday 04/16***
+ 
  - 4/20
  브리핑및현재진행상황발표
  
