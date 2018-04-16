@@ -3,9 +3,9 @@
  
  ***Today is Monday 04/16***
  <br>
- <br><a href="https://www.instagram.com/jeonhyerim0601/">부부사진관 Instagram</a>
- <br><a href="http://blog.naver.com/PostThumbnailList.nhn?blogId=c7460913&categoryNo=19&skinType=&skinId=&from=menu&userSelectMenu=true">부부사진관 Naver_Blog</a>
- <br><a href="https://map.naver.com/local/siteview.nhn?code=336372401&_ts=1523861597396">부부사진관 Naver</a>
+ <br><a href="https://www.instagram.com/jeonhyerim0601/">Instagram</a>
+ <br><a href="http://blog.naver.com/PostThumbnailList.nhn?blogId=c7460913&categoryNo=19&skinType=&skinId=&from=menu&userSelectMenu=true">Naver_Blog</a>
+ <br><a href="https://map.naver.com/local/siteview.nhn?code=336372401&_ts=1523861597396">Naver</a>
  
  - 4/20
  브리핑및현재진행상황발표
