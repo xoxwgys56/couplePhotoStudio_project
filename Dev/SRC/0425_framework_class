@@ -1,0 +1,20 @@
+	//class framework 
+  
+  private void tick(){
+		display.setCanvasSize();
+	}
+	
+	private void render_thumbnail(Graphics g) {
+		int x=0, y=0;
+		int width_limit = display.getPanel().getWidth() /100;
+		int offset = 60;
+		System.out.println(display.getPanel().getWidth() + ", " + width_limit);
+		
+		for (BufferedImage img : imageList) {
+			g.drawImage(img, (x++)*100, y, 50, 50, null);
+			if (x > width_limit) {
+				y += offset;
+				x = 0;
+			}
+		}
+	}
