@@ -1,3 +1,11 @@
 Guide
 
-°³¹ßÀÚ°¡ ¾Æ´Ñ »ç¿ëÀÚ¸¦ À§ÇÑ µğ·ºÅä¸®
+ì´ˆê¸° ì„¸íŒ… íŒŒì¼
+
+<ul>
+  <li>APM_setup</li>
+  <li>DB setting</li>
+  <li>jdbc jar
+ Â  Â <dd>ì´í´ë¦½ìŠ¤ì˜ í”„ë¡œì íŠ¸ ì†ì„±ì—ì„œ build pathì— </dd>
+  </li>
+</ul>
