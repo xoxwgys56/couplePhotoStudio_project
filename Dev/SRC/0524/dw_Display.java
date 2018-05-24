@@ -48,7 +48,8 @@ public class Display extends JFrame{
 	public String path;
 	private int width, height;
 	
-	private String photoshopPath = "C:/Windows/System32/notepad.exe";//메모장으로 해놨음.
+	/* 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 추가 */
+	private String photoshopPath = "C:/Windows/System32/notepad.exe"//메모장으로 해놨음.
 	private String lightroomPath = "C:/Windows/System32/notepad.exe";//메모장으로 해놨음.
 
 	//
